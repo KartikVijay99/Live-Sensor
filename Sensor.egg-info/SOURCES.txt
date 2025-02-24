@@ -1,4 +1,6 @@
 setup.py
+Sensor/Exception.py
+Sensor/Logger.py
 Sensor/__init__.py
 Sensor.egg-info/PKG-INFO
 Sensor.egg-info/SOURCES.txt
