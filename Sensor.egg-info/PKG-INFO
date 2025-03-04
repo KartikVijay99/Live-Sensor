@@ -1,5 +1,7 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.2
 Name: Sensor
 Version: 0.0.1
 Author: Kartik
 Author-email: kartikvijay9680@gmail.com
+Dynamic: author
+Dynamic: author-email
